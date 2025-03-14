@@ -1,9 +1,5 @@
 function Upload() {
-    return (
-        <div>
-            <h1>Upload</h1>
-        </div>
-    );
+    return <h2>Upload page</h2>;
 }
 
 export default Upload;
